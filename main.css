@@ -266,8 +266,6 @@ background: #FFFFFF;
 text-shadow: -4px 4px rgba(179,179,179,.4), -3px 3px rgba(153,153,153,.2), -2px 2px rgba(179,179,179,.2), -1px 1px rgba(179,179,179,.2), 0px 0px rgba(128,128,128,.5), 1px -1px rgba(77,77,77,.6), 2px -2px rgba(77,77,77,.7), 3px -3px rgba(82,82,82,.8), 4px -4px rgba(77,77,77,.9), 5px -5px rgba(77,77,77,1);
 }
 
-
-
 #preview2 {
 color: transparent;
 background: #FFFFFF;
@@ -387,6 +385,62 @@ nav ul {
 	list-style: none;
 	padding: 0;
 }
+abbr[title] {
+	cursor: help; /* 1 */
+	text-decoration: underline; /* 2 */
+	-webkit-text-decoration: underline dotted;
+	        text-decoration: underline dotted; /* 2 */
+}
+
+/*
+	Add correct font weight (Chrome, Edge, Safari)
+*/
+b,
+strong {
+	font-weight: bolder;
+}
+
+/*
+	Add correct font size (all)
+*/
+small {
+	font-size: 80%;
+}
+
+/*
+	Change alignment on media elements (all)
+*/
+audio,
+canvas,
+iframe,
+img,
+svg,
+video {
+	vertical-align: middle;
+}
+
+/*
+	Remove border on iframes (all)
+*/
+iframe {
+	border-style: none;
+}
+
+/*
+	Change fill color to match text (all)
+*/
+svg:not([fill]) {
+	fill: currentColor;
+}
+
+/*
+	Hide overflow (IE11)
+*/
+svg:not(:root) {
+	overflow: hidden;
+}                                                                                                                                                                                                                                 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
 
 /*
 	1. Use default monospace UI font (all)
@@ -412,3 +466,5 @@ samp {
 
 	font-size: 1em; /* 2 */
 }
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
