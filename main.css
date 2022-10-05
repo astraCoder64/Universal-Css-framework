@@ -305,3 +305,32 @@ text-shadow: 0 -1px 4px #FFF, 0 -2px 10px #ff0, 0 -10px 20px #ff8000, 0 -18px 40
 color: #FFFFFF;
 background: #333333;
 }
+
+.text-left {
+    text-align: left;
+}
+.text-center {
+    text-align: center;
+}
+.text-right {
+    text-align: right;
+}
+
+.text-muted {
+    color: var(--color-text-muted);
+}
+.text-primary {
+    color: var(--color-primary);
+}
+.text-danger {
+    color: var(--color-danger);
+}
+a.text-muted,
+a.text-primary,
+a.text-danger {
+    text-decoration: underline;
+}
+
+.text-small {
+    font-size: var(--font-size-small);
+}
