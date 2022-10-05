@@ -193,3 +193,11 @@ text-shadow: 0 1px 0 #CCCCCC, 0 2px 0 #c9c9c9, 0 3px 0 #bbb, 0 4px 0 #b9b9b9, 0 
 color: #FFFFFF;
 background: #0e8dbc;
 }
+
+#neon {
+color: #FFFFFF;
+background: #232323;
+text-shadow: 0 0 5px #FFF, 0 0 10px #FFF, 0 0 15px #FFF, 0 0 20px #49ff18, 0 0 30px #49FF18, 0 0 40px #49FF18, 0 0 55px #49FF18, 0 0 75px #49ff18;
+color: #FFFFFF;
+background: #232323;
+}
