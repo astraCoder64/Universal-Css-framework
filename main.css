@@ -178,6 +178,13 @@ margin-left-206px { margin-left: 206px; }
 .margin-right-211px { margin-right: 211px; }
 .margin-top-211px { margin-top: 211px; }
 
+body {
+  margin: 0;
+  /* 1 */
+  line-height: inherit;
+  /* 2 */
+}
+
 #demotext {
 color: #d9d9d9;
 background: #e8e8e8;
