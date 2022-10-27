@@ -295,6 +295,11 @@ text-shadow: -4px 4px rgba(179,179,179,.4), -3px 3px rgba(153,153,153,.2), -2px 
 .padding-221px { padding: 221px; }
 .padding-bottom-221px { padding-bottom: 221px; }
 
+.scroll-view {
+    overflow: auto;
+    -webkit-overflow-scrolling: touch;
+}
+
 .top-gap-big {
     margin-top: var(--width-gap-double) !important;
 }
