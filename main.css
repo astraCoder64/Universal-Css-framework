@@ -372,6 +372,16 @@ text-shadow: -4px 4px rgba(179,179,179,.4), -3px 3px rgba(153,153,153,.2), -2px 
         padding-left: 15px;
         padding-right: 15px;
     }
+  /* Index-2 */ 
+    .theme_features_area .floting_tittle h4{
+        margin-left: 0;
+    }
+    .carosel-center_tittle {
+        left: 50%;
+        width: 100%;
+        transform: translateY(-50%);
+        padding: 0;
+    }
 
   .quality_services_area .floting_tittle{
         left: 50%;
