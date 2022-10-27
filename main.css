@@ -365,6 +365,13 @@ text-shadow: -4px 4px rgba(179,179,179,.4), -3px 3px rgba(153,153,153,.2), -2px 
     .premium_support_area .custom-container .rs_tittle{
         padding-left: 50px;
     } 
+  .footer_area .social_media_area ul li a{
+        padding-right: 15px;
+    }
+    .footer_widget_area{
+        padding-left: 15px;
+        padding-right: 15px;
+    }
 
   .quality_services_area .floting_tittle{
         left: 50%;
