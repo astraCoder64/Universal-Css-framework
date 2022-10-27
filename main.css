@@ -295,6 +295,16 @@ text-shadow: -4px 4px rgba(179,179,179,.4), -3px 3px rgba(153,153,153,.2), -2px 
 .padding-221px { padding: 221px; }
 .padding-bottom-221px { padding-bottom: 221px; }
 
+.top-gap-big {
+    margin-top: var(--width-gap-double) !important;
+}
+.top-gap {
+    margin-top: var(--width-gap) !important;
+}
+.top-gap-0 {
+    margin-top: 0 !important;
+}
+
 #demo {
 color: #FFFFFF;
 background: #FFFFFF;
