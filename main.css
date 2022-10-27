@@ -320,6 +320,9 @@ text-shadow: -4px 4px rgba(179,179,179,.4), -3px 3px rgba(153,153,153,.2), -2px 
 .padding-top-220px { padding-top: 220px; }
 .padding-221px { padding: 221px; }
 .padding-bottom-221px { padding-bottom: 221px; }
+  .blog_widget{
+        padding-left: 0;
+    }
 }
 
 /**
