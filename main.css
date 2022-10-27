@@ -359,6 +359,13 @@ text-shadow: -4px 4px rgba(179,179,179,.4), -3px 3px rgba(153,153,153,.2), -2px 
         padding-left: 100px;
     }
 
+  .premium_support_area .custom-container{
+        position: relative;
+    }
+    .premium_support_area .custom-container .rs_tittle{
+        padding-left: 50px;
+    } 
+
   .floting_tittle h4 {
         left: 0;
         transform: rotate(0deg);
