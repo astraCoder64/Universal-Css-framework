@@ -358,6 +358,18 @@ text-shadow: -4px 4px rgba(179,179,179,.4), -3px 3px rgba(153,153,153,.2), -2px 
         width: 100%;
         padding-left: 100px;
     }
+
+  .floting_tittle h4 {
+        left: 0;
+        transform: rotate(0deg);
+        top: 0;
+        margin-top: 0px;
+        position: relative;
+        width: 100%;
+        max-width: 300px;
+        margin-left: 80px; 
+    }
+  
   .navbar.navbar-default .collapse .navbar-nav.navbar-right li a {
         margin-right: 15px;
     }
