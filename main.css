@@ -302,6 +302,11 @@ text-shadow: -4px 4px rgba(179,179,179,.4), -3px 3px rgba(153,153,153,.2), -2px 
 }
 }
 
+/* Index-2 */ 
+    .spacex_features_area { 
+        padding: 0 15px;
+    } 
+
 @media (max-width:1599px){
   .floting_tittle h4{
         left: 0;
