@@ -308,6 +308,12 @@ text-shadow: -4px 4px rgba(179,179,179,.4), -3px 3px rgba(153,153,153,.2), -2px 
     .quality_services_area .floting_tittle h4{
         left: -30px;
     }
+  .footer_area .social_media_area{
+        padding-left: 10px;
+    }
+    .footer_area .social_media_area ul li a{
+        padding-right: 50px;
+    }
 }
 
 /**
