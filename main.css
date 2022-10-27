@@ -369,6 +369,12 @@ text-shadow: -4px 4px rgba(179,179,179,.4), -3px 3px rgba(153,153,153,.2), -2px 
     .premium_support_area .we_provide .provide_content h2 {
         font-size: 38px;
     } 
+    .footer_area .footer_from_area{
+        width: calc(50% + 235px);
+    }
+    .footer_area .social_media_area {
+        width: calc(50% - 235px); 
+    }
     .expertise_area .expertise_right_area{
         width: 100%;
         position: relative;
