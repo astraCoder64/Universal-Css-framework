@@ -295,8 +295,15 @@ text-shadow: -4px 4px rgba(179,179,179,.4), -3px 3px rgba(153,153,153,.2), -2px 
 .padding-221px { padding: 221px; }
 .padding-bottom-221px { padding-bottom: 221px; }
 
+@media (max-width:1599px){
+  .floting_tittle h4{
+        left: 0;
+    }
+    .cuntrap_area .media:nth-child(3) .middle_text{
+        padding-left: 30px;
+    }
+}
 
-=======
 /**
  * 1. Correct the text wrapping in Edge and IE.
  * 2. Correct the color inheritance from `fieldset` elements in IE.
