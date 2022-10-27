@@ -358,6 +358,16 @@ text-shadow: -4px 4px rgba(179,179,179,.4), -3px 3px rgba(153,153,153,.2), -2px 
         padding: 40px 15px; 
     }
 
+  @media (max-width:1199px){
+    .expertise_area .expertise_left_area{
+        width: 100%;
+    }
+    .expertise_area .expertise_left_area .expertise_left_content{
+        max-width: 100%;
+        padding-left: 15px;
+    }
+  }
+
   .social_footer .socail_text_icons .all_icon a{
         line-height: 180px;
     }
