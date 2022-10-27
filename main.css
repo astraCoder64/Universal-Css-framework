@@ -367,6 +367,14 @@ text-shadow: -4px 4px rgba(179,179,179,.4), -3px 3px rgba(153,153,153,.2), -2px 
         width: 100%;
         position: relative;
     }
+    .core_features_area .core_features_left{
+        width: 100%;
+        padding-bottom: 50px;
+    }
+    .core_features_area .core_features_left .core_features_big-content{
+        max-width: 100%;
+        padding-left: 15px;
+    } 
     .expertise_area .expertise_left_area .expertise_left_content .our_skill_inner{
         padding-bottom: 40px;
     }
