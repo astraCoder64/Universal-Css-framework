@@ -359,6 +359,13 @@ text-shadow: -4px 4px rgba(179,179,179,.4), -3px 3px rgba(153,153,153,.2), -2px 
     }
 
   @media (max-width:1199px){
+    .floting_tittle{
+        width: 100%;
+        padding-left: 70px;
+    }
+    .middle_tittle{
+        padding-left: 0 !important;
+    }
     .expertise_area .expertise_left_area{
         width: 100%;
     }
