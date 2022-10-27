@@ -333,6 +333,14 @@ text-shadow: -4px 4px rgba(179,179,179,.4), -3px 3px rgba(153,153,153,.2), -2px 
     .footer_area .social_media_area ul li a{
         padding-right: 50px;
     }
+
+  .carosel-center_tittle h4{
+        margin-left: 0;
+    }
+    .spacex_features_area .spacex_features .responsive_browsers { 
+        padding: 40px 15px; 
+    }
+  
   .padding-bottom-220px { padding-bottom: 220px; }
 .padding-left-220px { padding-left: 220px; }
 .padding-right-220px { padding-right: 220px; }
