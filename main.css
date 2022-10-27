@@ -295,6 +295,21 @@ text-shadow: -4px 4px rgba(179,179,179,.4), -3px 3px rgba(153,153,153,.2), -2px 
 .padding-221px { padding: 221px; }
 .padding-bottom-221px { padding-bottom: 221px; }
 
+::before,
+::after {
+	box-sizing: border-box;
+}
+
+/*
+	1. Inherit text decoration (all)
+	2. Inherit vertical alignment (all)
+ */
+::before,
+::after {
+	text-decoration: inherit; /* 1 */
+	vertical-align: inherit; /* 2 */
+}
+
 .scroll-view {
     overflow: auto;
     -webkit-overflow-scrolling: touch;
