@@ -364,6 +364,13 @@ text-shadow: -4px 4px rgba(179,179,179,.4), -3px 3px rgba(153,153,153,.2), -2px 
     .trends_area.row.m0 .trends_area_inner{
         padding: 0 15px;
     }
+  .floting_tittle h4 {
+        left: 0;
+        transform: rotate(0deg);
+        top: 0;
+        max-width: 300px;
+        margin-left: 80px; 
+    }
   .expertise_area .expertise_left_area{
         position: relative;
     }
