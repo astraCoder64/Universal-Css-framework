@@ -327,6 +327,14 @@ text-shadow: -4px 4px rgba(179,179,179,.4), -3px 3px rgba(153,153,153,.2), -2px 
     .quality_services_area .floting_tittle h4{
         left: -30px;
     }
+
+   .best_business_area_tow .business_container{
+        padding: 0 15px;
+    }
+    .main_header_area.white_bg .navbar-collapse .main_nav{
+        float: left;
+    }
+  
   .footer_area .social_media_area{
         padding-left: 10px;
     }
