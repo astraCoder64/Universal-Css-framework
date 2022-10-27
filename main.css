@@ -369,6 +369,16 @@ text-shadow: -4px 4px rgba(179,179,179,.4), -3px 3px rgba(153,153,153,.2), -2px 
     .premium_support_area .we_provide .provide_content h2 {
         font-size: 38px;
     } 
+    .center-tittle{
+        left: 50%;
+        width: 100%;
+        transform: translateY(-50%);
+        padding: 0;
+    }
+    .center-tittle h4{
+        margin: 0;
+        max-width: 100%;
+    }
     .footer_area .footer_from_area{
         width: calc(50% + 235px);
     }
