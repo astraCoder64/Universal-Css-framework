@@ -302,6 +302,12 @@ text-shadow: -4px 4px rgba(179,179,179,.4), -3px 3px rgba(153,153,153,.2), -2px 
     .cuntrap_area .media:nth-child(3) .middle_text{
         padding-left: 30px;
     }
+   .core_features_area .core_features_right .customer_supports .supports_right{
+        padding-left: 0;
+    }
+    .quality_services_area .floting_tittle h4{
+        left: -30px;
+    }
 }
 
 /**
