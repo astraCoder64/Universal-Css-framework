@@ -306,6 +306,13 @@ text-shadow: -4px 4px rgba(179,179,179,.4), -3px 3px rgba(153,153,153,.2), -2px 
     .spacex_features_area { 
         padding: 0 15px;
     } 
+/* Index-medical */ 
+    .main_header_area.white_bg .sub-container {
+        padding: 0 15px;
+    } 
+    .emmergency_call .messages {
+        padding: 90px 20px; 
+    }
 
 @media (max-width:1599px){
   .floting_tittle h4{
