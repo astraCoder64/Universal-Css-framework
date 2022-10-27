@@ -334,6 +334,15 @@ text-shadow: -4px 4px rgba(179,179,179,.4), -3px 3px rgba(153,153,153,.2), -2px 
     .main_header_area.white_bg .navbar-collapse .main_nav{
         float: left;
     }
+
+  .medical_services{
+        padding: 0 15px;
+    }
+    
+    /* Index-restaurant */
+    .nav_resturent .navigation_box .main_nav li a{ 
+        padding-left: 20px !important; 
+    } 
   
   .footer_area .social_media_area{
         padding-left: 10px;
