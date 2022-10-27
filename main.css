@@ -295,19 +295,14 @@ text-shadow: -4px 4px rgba(179,179,179,.4), -3px 3px rgba(153,153,153,.2), -2px 
 .padding-221px { padding: 221px; }
 .padding-bottom-221px { padding-bottom: 221px; }
 
-@media (max-width:1729px){
-    .expertise_area .expertise_right_area{
-        position: absolute;
-        right: 0;
-    }
-    /* Index-2 */ 
-}
 
-::before,
-::after {
-	box-sizing: border-box;
-}
-
+=======
+/**
+ * 1. Correct the text wrapping in Edge and IE.
+ * 2. Correct the color inheritance from `fieldset` elements in IE.
+ * 3. Remove the padding so developers are not caught out when they zero out
+ *    `fieldset` elements in all browsers.
+ */
 /*
 	1. Inherit text decoration (all)
 	2. Inherit vertical alignment (all)
