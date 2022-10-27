@@ -354,6 +354,10 @@ text-shadow: -4px 4px rgba(179,179,179,.4), -3px 3px rgba(153,153,153,.2), -2px 
 }
 
 @media (max-width:1366px){
+  .rs_tittle{
+        width: 100%;
+        padding-left: 100px;
+    }
   .navbar.navbar-default .collapse .navbar-nav.navbar-right li a {
         margin-right: 15px;
     }
