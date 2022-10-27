@@ -340,6 +340,14 @@ text-shadow: -4px 4px rgba(179,179,179,.4), -3px 3px rgba(153,153,153,.2), -2px 
     .spacex_features_area .spacex_features .responsive_browsers { 
         padding: 40px 15px; 
     }
+
+  .spacex_features_area .spacex_features .responsive_browsers h4{
+        font-size: 15px;
+    }
+    /* Index-3 */ 
+    .clients_testimonials_logo .clients_logo_area {
+        padding: 65px 70px; 
+    }
   
   .padding-bottom-220px { padding-bottom: 220px; }
 .padding-left-220px { padding-left: 220px; }
