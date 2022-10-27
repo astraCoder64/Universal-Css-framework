@@ -341,6 +341,13 @@ text-shadow: -4px 4px rgba(179,179,179,.4), -3px 3px rgba(153,153,153,.2), -2px 
         padding: 40px 15px; 
     }
 
+  .social_footer .socail_text_icons .all_icon a{
+        line-height: 180px;
+    }
+    .premium_support_three .our_team_member_three {
+        padding: 0 75px;
+    }
+
   .spacex_features_area .spacex_features .responsive_browsers h4{
         font-size: 15px;
     }
