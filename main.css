@@ -363,6 +363,12 @@ text-shadow: -4px 4px rgba(179,179,179,.4), -3px 3px rgba(153,153,153,.2), -2px 
         width: 100%;
         padding-left: 70px;
     }
+    .core_features_area .core_features_right .customer_supports .supports{
+        width: 50%;
+    }
+    .premium_support_area .we_provide .provide_content h2 {
+        font-size: 38px;
+    } 
     .expertise_area .expertise_right_area{
         width: 100%;
         position: relative;
