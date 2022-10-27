@@ -369,6 +369,14 @@ text-shadow: -4px 4px rgba(179,179,179,.4), -3px 3px rgba(153,153,153,.2), -2px 
         max-width: 300px;
         margin-left: 80px; 
     }
+
+  .cuntrap_area{
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .premium_support_area .we_provide .provide_content p{
+        padding-right: 15px;
+    }
   
   .navbar.navbar-default .collapse .navbar-nav.navbar-right li a {
         margin-right: 15px;
